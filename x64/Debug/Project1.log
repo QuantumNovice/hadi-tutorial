@@ -1,0 +1,4 @@
+﻿  Source.c
+F:\Temp\Project1\Project1\Source.c(21,10): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char'
+F:\Temp\Project1\Project1\Source.c(21,9): warning C4024: 'printf': different types for formal and actual parameter 1
+  Project1.vcxproj -> F:\Temp\Project1\x64\Debug\Project1.exe
